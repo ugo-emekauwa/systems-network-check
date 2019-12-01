@@ -17,7 +17,7 @@ $email_recipients = "net-operations@company.org, it-support@company.org"
 
 # Setting SMTP server for sending email alerts
 Write-Output "$(Get-Date) - Setting SMTP server for sending email alerts." | Out-File -Append "c:\Logs\systems_check.log"
-$smtp_server = smtp.company.org
+$smtp_server = "smtp.company.org"
 
 # Capturing values from system XML file
 Write-Output "$(Get-Date) - Capturing values from system XML file." | Out-File -Append "c:\Logs\systems_check.log"
