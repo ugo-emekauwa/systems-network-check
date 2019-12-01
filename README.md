@@ -9,7 +9,7 @@ The sample PowerShell script named **systems_check.ps1** demonstrates how to per
 3. Send an email alert to specified parties if the ping attempt failed on the targeted system.
 
 ## Providing Alert Information for the Targeted System(s)
-The sample XML file named **system1.xml** demonstrates how to setup targeted system information for the **system_check.ps1** script. In the sample **system1.xml** file, the following information has been provided for three clustered server nodes that will be monitored:
+The sample XML file named **system1.xml** demonstrates how to setup targeted system information for the **systems_check.ps1** script. In the sample **system1.xml** file, the following information has been provided for three clustered server nodes that will be monitored:
 1. Cluster Name
 2. Data Center Location
 3. Connected Top of the Rack (TOR) Switch
