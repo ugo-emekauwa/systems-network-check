@@ -23,11 +23,11 @@ The sample XML file named **system1.xml** demonstrates how to setup targeted sys
 3. _Optional:_ Task Scheduler on Microsoft Windows or a similar equivalent, for creating a scheduled task/job to run the systems availability check on a set interval.
 
 ## Use Cases
-A modified version of the **systems_check.ps1** script is part of the automation used to support and enable the following demonstrations on Cisco dCloud:
+A modified version of the **systems_check.ps1** script is part of the automation used to support and enable the following product demonstrations on Cisco dCloud:
 1. Cisco HyperFlex Edge with Intersight v1
-2. Cisco Unified Computing System v1
+2. Cisco Unified Computing System 4.0 v1
 3. Cisco UCS Management with Intersight v1
-4. Cisco UCS with KuBAM (Kubernetes) v1
+4. Cisco UCS 4.0 with Kubernetes - (KUBaM) v1
 5. Cisco UCS Central 2.0 v1
 6. Cisco UCS Central 2.0 Lab v1
 
