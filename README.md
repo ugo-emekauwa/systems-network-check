@@ -2,13 +2,13 @@
 
 The sample Microsoft Windows PowerShell script listed in this repository demonstrates how to automate checking the network availability of a targeted system and send an email alert if the system is unresponsive. This can be useful for scenarios that require quickly pre-checking a system's network availability before performing further automation or where a standalone network monitoring platform is unavailable.
 
-## Performing the Availability Check on Targeted System(s)
+## Performing the Availability Check on Targeted Systems:
 The sample PowerShell script named **systems_check.ps1** demonstrates how to perform the following primary actions:
 1. Obtain information on targeted systems from a specified system XML file.
 2. Check availability of targeted systems by attempting to ping the device on the network.
 3. Send an email alert to specified parties if the ping attempt failed on the targeted system.
 
-## Providing Alert Information for the Targeted System(s)
+## Providing Alert Information for the Targeted Systems:
 The sample XML file named **system1.xml** demonstrates how to setup targeted system information for the **systems_check.ps1** script. In the sample **system1.xml** file, the following information has been provided for three clustered server nodes that will be monitored:
 1. Cluster Name
 2. Data Center Location
@@ -22,7 +22,7 @@ The sample XML file named **system1.xml** demonstrates how to setup targeted sys
 2. A reachable SMTP Server.
 3. _Optional:_ Task Scheduler on Microsoft Windows or a similar equivalent for creating a scheduled task/job to run the systems availability check on a set interval.
 
-## Use Cases
+## Use Cases:
 A modified version of the **systems_check.ps1** script is part of the automation used to support and enable the following product demonstrations on Cisco dCloud:
 1. Cisco HyperFlex Edge with Intersight v1
 2. Cisco Unified Computing System 4.0 v1
