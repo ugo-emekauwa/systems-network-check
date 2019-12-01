@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+  <name>Service Cluster 1</name>
+  <datacenter>RTP</datacenter>
+  <tor>tor-switch1-rack34</tor>
+  <nodes>
+    <node1>
+      <name>server-node1</name>
+      <serial>SVC12040VCB</serial>
+      <ip_address>192.168.2.111</ip_address>
+    </node1>
+    <node2>
+      <name>server-node2</name>
+      <serial>MGQ22040VPS</serial>
+      <ip_address>192.168.2.112</ip_address>
+    </node2>
+    <node3>
+      <name>server-node3</name>
+      <serial>ZBL320400V8</serial>
+      <ip_address>192.168.2.113</ip_address>
+    </node3>
+  </nodes>
+</cluster>
