@@ -24,12 +24,12 @@ The sample XML file named **system1.xml** demonstrates how to setup targeted sys
 
 ## Use Cases:
 A modified version of the **systems_check.ps1** script is part of the automation used to support and enable the following product demonstrations on Cisco dCloud:
-1. Cisco HyperFlex Edge with Intersight v1
-2. Cisco Unified Computing System 4.0 v1
-3. Cisco UCS Management with Intersight v1
-4. Cisco UCS 4.0 with Kubernetes - (KUBaM) v1
-5. Cisco UCS Central 2.0 v1
-6. Cisco UCS Central 2.0 Lab v1
+1. _Cisco HyperFlex Edge with Intersight v1_
+2. _Cisco Unified Computing System 4.0 v1_
+3. _Cisco UCS Management with Intersight v1_
+4. _Cisco UCS 4.0 with Kubernetes - (KUBaM) v1_
+5. _Cisco UCS Central 2.0 v1_
+6. _Cisco UCS Central 2.0 Lab v1_
 
 ## Author:
 Ugo Emekauwa
