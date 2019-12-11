@@ -32,7 +32,7 @@ A modified version of the **systems_check.ps1** script is part of the automation
 5. _Cisco UCS Central 2.0 v1_
 6. _Cisco UCS Central 2.0 Lab v1_
 
-Cisco dCloud is available at https://dcloud.cisco.com. Cisco product demonstrations and labs can be found in the Catalog.
+Cisco dCloud is available at https://dcloud.cisco.com, where product demonstrations and labs can be found in the Catalog.
 
 ## Author:
 Ugo Emekauwa
