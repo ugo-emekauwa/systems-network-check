@@ -31,6 +31,7 @@ A modified version of the **systems_check.ps1** script is part of the automation
 4. _Cisco UCS 4.0 with Kubernetes - (KUBaM) v1_
 5. _Cisco UCS Central 2.0 v1_
 6. _Cisco UCS Central 2.0 Lab v1_
+7. _Cisco UCS Programmability and Automation Lab v1_
 
 Cisco dCloud is available at https://dcloud.cisco.com, where product demonstrations and labs can be found in the Catalog.
 
